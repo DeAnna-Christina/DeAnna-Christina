@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeAnna-Christina
-- 👀 I’m interested in ... Formula One (F1), technology, K-Dramas, and computer video games (Vermintide 2 = Current Obsession)
+- 👀 I’m interested in ... Formula One (F1), technology, K-Dramas, and video games (Vermintide 2 = Current Obsession)
 - 🌱 I’m currently learning ... JavaScript (on my own time) & computer science (in class)
 - 💞️ I’m looking to collaborate on ... anything that will expand my knowledge
 - 📫 How to reach me ... 
