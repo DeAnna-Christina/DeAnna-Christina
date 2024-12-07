@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything that will expand my knowledge
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I was so close to touching a Dragon capsule that was ACTUALLY IN SPACE while on a tour of the SpaceX facility in CA
+- ⚡ Fun fact: ... I was so close to touching a Dragon capsule that was ACTUALLY IN SPACE while on a tour of a SpaceX facility
 
 <!---
 DeAnna-Christina/DeAnna-Christina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
